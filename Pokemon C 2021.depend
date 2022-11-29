@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1637771760 source:e:\federico\documents\codeblock projects\2021\pokemon c 2021\pokemon c 2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"myConstants.h"
+	"movimientos.h"
+	"pokemon.h"
+	"userInterface.h"
+	"drawings.h"
+	"efectividades.h"
+
+1637203505 source:e:\federico\documents\codeblock projects\2021\pokemon c 2021\pokemon c 2021\movimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movimientos.h"
+
+1637184638 e:\federico\documents\codeblock projects\2021\pokemon c 2021\pokemon c 2021\movimientos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myConstants.h"
+
+1637771558 source:e:\federico\documents\codeblock projects\2021\pokemon c 2021\pokemon c 2021\userinterface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movimientos.h"
+	"pokemon.h"
+	"userInterface.h"
+	"efectividades.h"
+
+1637771558 e:\federico\documents\codeblock projects\2021\pokemon c 2021\pokemon c 2021\userinterface.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movimientos.h"
+
+1637772559 source:e:\federico\documents\codeblock projects\2021\pokemon c 2021\pokemon c 2021\drawings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"pokemon.h"
+	"movimientos.h"
+	"drawings.h"
+
+1637771611 e:\federico\documents\codeblock projects\2021\pokemon c 2021\pokemon c 2021\drawings.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"movimientos.h"
+
+1637076882 e:\federico\documents\codeblock projects\2021\pokemon c 2021\pokemon c 2021\myconstants.h
+
+1637809684 source:e:\federico\documents\codeblock projects\2021\pokemon c 2021\pokemon c 2021\efectividades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myConstants.h"
+	"efectividades.h"
+
+1637723633 e:\federico\documents\codeblock projects\2021\pokemon c 2021\pokemon c 2021\efectividades.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myConstants.h"
+
+1637809953 source:e:\federico\documents\codeblock projects\2021\pokemon c 2021\pokemon c 2021\pokemon.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"myConstants.h"
+	"movimientos.h"
+	"pokemon.h"
+	"efectividades.h"
+
+1637704923 e:\federico\documents\codeblock projects\2021\pokemon c 2021\pokemon c 2021\pokemon.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myConstants.h"
+	"movimientos.h"
+	"efectividades.h"
+
